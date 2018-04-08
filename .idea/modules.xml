@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DingDingYang.iml" filepath="$PROJECT_DIR$/DingDingYang.iml" />
+      <module fileurl="file://E:\MzZ_Android_Project\DingDingYang\DingDingYang.iml" filepath="E:\MzZ_Android_Project\DingDingYang\DingDingYang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\MzZ_Android_Project\DingDingYang\app\app.iml" filepath="E:\MzZ_Android_Project\DingDingYang\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pickerview/pickerview.iml" filepath="$PROJECT_DIR$/pickerview/pickerview.iml" />
+      <module fileurl="file://E:\MzZ_Android_Project\DingDingYang\pickerview\pickerview.iml" filepath="E:\MzZ_Android_Project\DingDingYang\pickerview\pickerview.iml" />
+    </modules>
+  </component>
+</project>
